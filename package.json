@@ -1,0 +1,27 @@
+{
+  "name": "nodescraper",
+  "version": "1.0.0",
+  "description": "Asmodee product monitor for stock status",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3",
+    "puppeteer": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JASEpstein/NodeScraper.git"
+  },
+  "author": "Jamie Epstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JASEpstein/NodeScraper/issues"
+  },
+  "homepage": "https://github.com/JASEpstein/NodeScraper#readme"
+}
